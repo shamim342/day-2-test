@@ -1,0 +1,64 @@
+.blog{
+ padding: 0 50PX;
+}
+.blog p{
+
+    font-size: 20px;
+
+}
+.contain{
+   display: flex;
+   justify-content: space-between;
+   margin: 0 30px 20px;
+   border: 5px solid aqua;
+   padding: 20px 50px;
+   border-radius: 100px 0;
+   background-color: salmon;
+}
+
+.contain2{
+    background-color: rgb(42, 165, 42);
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px 20px;
+    border: 5px solid rgb(134, 13, 13);
+    padding: 20px 50px;
+    border-radius: 100px 0;
+ 
+ }
+
+
+.main-menu{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+ul{
+    text-align: center;
+    
+}
+.menu{
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    margin-top: 1.7%;
+    
+}
+.menu li a{
+    text-decoration: none;
+    padding: 15px;
+}
+.menu li a:hover{
+    background-color: springgreen;
+}
+.tr{
+    margin-left: 5%;
+}
+
+
+
